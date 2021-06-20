@@ -1,0 +1,50 @@
+{
+  "url": "https://create-react-app-blog.vercel.app/",
+  "requestedUrl": "https://create-react-app-blog.vercel.app/",
+  "timestamp": 1624222713993,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 918.5920000000001,
+  "speedIndex": 1080.3644298707986,
+  "largestContentfulPaint": 931.0920000000001,
+  "totalBlockingTime": 89,
+  "cumulativeLayoutShift": 0.05279864501953125,
+  "timeToInteractive": 2089.0150000000003,
+  "maxPotentialFirstInputDelay": 153,
+  "timeToFirstByte": 50.83699999999999,
+  "weight": {
+    "summary": "17 requests • 166 KiB",
+    "total": 170004,
+    "image": 116816,
+    "imageCount": 13,
+    "script": 48514,
+    "scriptCount": 1,
+    "document": 2865,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 1430,
+    "stylesheetCount": 1,
+    "thirdParty": 48893,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 315,
+    "violations": 3
+  }
+}

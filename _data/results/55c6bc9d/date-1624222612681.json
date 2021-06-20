@@ -1,0 +1,50 @@
+{
+  "url": "https://villivald.com/",
+  "requestedUrl": "https://villivald.com/",
+  "timestamp": 1624222671744,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.51,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 342
+  },
+  "firstContentfulPaint": 3313.1475,
+  "speedIndex": 3313.1475,
+  "largestContentfulPaint": 5562.5610000000015,
+  "totalBlockingTime": 864.9519999999998,
+  "cumulativeLayoutShift": 0.0032734235127766928,
+  "timeToInteractive": 5429.013000000001,
+  "maxPotentialFirstInputDelay": 611.0000000000005,
+  "timeToFirstByte": 35.38300000000001,
+  "weight": {
+    "summary": "46 requests • 656 KiB",
+    "total": 671895,
+    "image": 138897,
+    "imageCount": 29,
+    "script": 434978,
+    "scriptCount": 9,
+    "document": 3028,
+    "font": 9719,
+    "fontCount": 1,
+    "stylesheet": 84004,
+    "stylesheetCount": 2,
+    "thirdParty": 62405,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 545,
+    "violations": 9
+  }
+}
